@@ -1,0 +1,7 @@
+libraries required:
+
+pandas
+pandas-datareader
+xlrd
+plotly
+DateTime
